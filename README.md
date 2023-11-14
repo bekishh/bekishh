@@ -27,12 +27,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;"> 
         <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">        
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">        
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="38" height="38"/> 
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="38" height="38"/> 
     </a>
 </p>
@@ -46,10 +46,10 @@
     <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;"> 
         <img src="https://img.icons8.com/color/48/000000/git.png"/> 
     </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="37" height="37"/> 
     </a>
-    <a href="https://www.firebase.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.firebase.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="37" height="37"/> 
     </a>
 </p>
