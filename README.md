@@ -11,7 +11,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `JAVA` and `SQL`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1S8E6Yrw5hGsXXedtYnk4eoFkl5cGRWit/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xwPBuKsPBs6wMqLWK_RTyzlS5W2GFbQg/view?usp=sharing).
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
